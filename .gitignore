@@ -1,3 +1,6 @@
 .DS_Store
 *.o
 *.dSYM
+builddir/
+compile_commands.json
+.cache/
